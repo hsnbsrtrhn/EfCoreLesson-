@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UdemyEfCore.DataBaseFirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b26ee216336405681eee22783a2decd8a065f67f")]
 [assembly: System.Reflection.AssemblyProductAttribute("UdemyEfCore.DataBaseFirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UdemyEfCore.DataBaseFirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
